@@ -1,7 +1,7 @@
 ## F-SOCIETY RAT
-https://img.shields.io/badge/F--SOCIETY-RAT-red
-https://img.shields.io/badge/Metasploit-Android-blue
-https://img.shields.io/badge/Security-Testing-orange
+![](https://img.shields.io/badge/F--SOCIETY-RAT-red)
+![.](https://img.shields.io/badge/Metasploit-Android-blue)
+![](https://img.shields.io/badge/Security-Testing-orange)
 
 A powerful Remote Administration Tool (RAT) built on the Metasploit Framework specifically designed for Android penetration testing and security assessment.
 
